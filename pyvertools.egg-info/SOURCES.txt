@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+pyvertools/__init__.py
+pyvertools/converter.py
+pyvertools/detector.py
+pyvertools.egg-info/PKG-INFO
+pyvertools.egg-info/SOURCES.txt
+pyvertools.egg-info/dependency_links.txt
+pyvertools.egg-info/top_level.txt
+scripts/f23
+scripts/is23
